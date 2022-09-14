@@ -1,6 +1,16 @@
-Hi there 👋 My name is Matheus Batista Rodrigues, and here are some things about me
 
-- 🌱 I’m currently learning some programming stuff like backend programming languages
-- 👯 I’m looking to collaborate on projects that help people.
-- 😄 Pronouns: He / His
-- ⚡ Fun fact: I have 4 dogs and 2 cats, I think you can tell that I love pets 😂❤️
+<div display>
+<a href="https://github.com/nineonex%22%3E
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=batistmath&theme=dark&show_icons=true%22%3E
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batistmath&layout=compact&theme=dark%22%3E</a>
+</div>
+<div><img src="https://www.codewars.com/users/batistmath/badges/large" /></div>
+
+##
+<div display="inline_block" >
+<a href="" alt="Likedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22/%3E<a/>
+<a href="" alt="CodeWars"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white%22/%3E<a/>
+</div>
+
+##
+![Snake animation](https://github.com/batistmath/batistmath/blob/output/github-contribution-grid-snake.svg)
